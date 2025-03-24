@@ -11,6 +11,7 @@ public class Main {
     }
     public static void sayHello(){
         System.out.println("Hello Con Cho");
+        System.out.println("Hello moi nguoi");
     }
     public static void swap(double a, double b){
         double temp = b;
